@@ -1,10 +1,9 @@
 
 
-👩‍💻  👋 Hi there, I'm [Maya]!Who love to Automate Everything | Pythonista | Coffee Lover.
-A Python and Java enthusiathic in automation testing. I love building robust test frameworks, squashing bugs, and ensuring software works flawlessly—before it reaches users.
+👩‍💻  👋 Hi there, I'm [Maya]! A Python and Java enthusiathic in automation testing. I love building robust test frameworks, squashing bugs, and ensuring software works flawlessly—before it reaches users.
 
 
- 🛠️ Technologies & Tools
+ 🛠️ Technologies & Tools I Use
 
 🚀 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,6 +39,12 @@ A Python and Java enthusiathic in automation testing. I love building robust tes
 ![Behave](https://img.shields.io/badge/Behave-46A853?style=for-the-badge&logo=behave&logoColor=white)
 ![pytest-bdd](https://img.shields.io/badge/pytest--bdd-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 [![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/docs/gherkin/)
+
+🛠️ Professional Tools I Use
+- 🔄 Agile methodology – Daily standups, sprint planning
+- 💬 Slack – Team communication and integrations
+- 📋 Jira & Trello – Project & task tracking
+- 🧾 Confluence – Technical documentation & team wikis
 
 📢 Reach Me Out! Because bugs don’t fix themselves...
 - 💼 [LinkedIn](https://www.linkedin.com/in/mayajagan/)
