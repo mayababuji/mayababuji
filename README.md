@@ -47,7 +47,7 @@
 - 🧾 Confluence – Technical documentation & team wikis
 
 📢 Reach Me Out! Because bugs don’t fix themselves...
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayajagan/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayababuji/)
 - ✉️ Email: mayababuji@outlook.com
 
  📚 Latest Blog Posts
