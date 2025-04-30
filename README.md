@@ -56,7 +56,7 @@ A Python and Java enthusiathic in automation testing. I love building robust tes
 2. Someone else’s code  
 3. Cosmic rays"
 </details>
-
+ 
 ---
 
 > *“Good tests fail. Great tests fail *randomly*.”*  
