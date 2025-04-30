@@ -57,5 +57,4 @@ A Python and Java enthusiathic in automation testing. I love building robust tes
 3. Cosmic rays"
 </details>
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mayababuji.mayababuji)
 
