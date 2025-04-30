@@ -57,4 +57,7 @@ A Python and Java enthusiathic in automation testing. I love building robust tes
 3. Cosmic rays"
 </details>
 
+---
 
+> *“Good tests fail. Great tests fail *randomly*.”*  
+> — Anonymous CI/CD Victim
