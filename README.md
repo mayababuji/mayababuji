@@ -52,6 +52,7 @@
 
  📚 Latest Blog Posts
 - [Chaintest Reporting](https://www.numpyninjaacademy.com/post/adieu-extent-report-bienvenue-chaintest-for-next-level-automation-reporting)
+- [Python Behave BDD](https://www.numpyninjaacademy.com/post/mom-s-guide-to-behave-python-behaviour-driven-development)
 
 <details>
 <summary>📜 Click for a random testing fact</summary>
