@@ -52,8 +52,8 @@
 
  📚 Latest Blog Posts
  [📝 Maya's Blogs](https://www.numpyninjaacademy.com/profile/mayababuji52610/blog-posts)
+- [Python Behave BDD](https://medium.com/@mayababuji/moms-guide-to-behave-python-behaviour-driven-development-788df847c6fc)
 - [Chaintest Reporting](https://www.numpyninjaacademy.com/post/adieu-extent-report-bienvenue-chaintest-for-next-level-automation-reporting)
-- [Python Behave BDD](https://www.numpyninjaacademy.com/post/mom-s-guide-to-behave-python-behaviour-driven-development)
 
 
 <details>
