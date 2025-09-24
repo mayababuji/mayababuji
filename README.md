@@ -17,7 +17,7 @@
    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 
   
-☕ Java Testing Stack (For When Python Needs Backup)
+☕ Java Testing Stack 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge&logo=testing-library&logoColor=white">
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
