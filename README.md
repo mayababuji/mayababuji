@@ -69,3 +69,6 @@
 
 > *“Good tests fail. Great tests fail *randomly*.”*  
 > — Anonymous CI/CD Victim
+>
+> ![Profile views](https://komarev.com/ghpvc/?username=mayababuji&label=Visitors&color=orange&style=flat-square)
+
