@@ -36,7 +36,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 🌱 Behavior-Driven Development (BDD)
-![Behave](https://img.shields.io/badge/Behave-46A853?style=for-the-badge&logo=behave&logoColor=white)
 ![pytest-bdd](https://img.shields.io/badge/pytest--bdd-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 [![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/docs/gherkin/)
 
