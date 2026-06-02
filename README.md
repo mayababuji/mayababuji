@@ -51,8 +51,7 @@
 - ✉️ Email: mayababuji@outlook.com
 
  📚 Latest Blog Posts
- [📝 Maya's Blogs](https://www.numpyninjaacademy.com/profile/mayababuji52610/blog-posts)
-- [Python Behave BDD](https://medium.com/@mayababuji/moms-guide-to-behave-python-behaviour-driven-development-788df847c6fc)
+ [📝 Maya's Blogs](https://medium.com/@mayababuji)
 - [Chaintest Reporting](https://www.numpyninjaacademy.com/post/adieu-extent-report-bienvenue-chaintest-for-next-level-automation-reporting)
 
 
