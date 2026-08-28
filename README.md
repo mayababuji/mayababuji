@@ -3,18 +3,6 @@ A Python, Java, and JavaScript enthusiast in automation testing. I love building
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayababuji&show_icons=true&theme=radical" height="160">
-
-  <!-- Pie chart version (Java + JavaScript included, Python-heavy repos excluded, JSON + Jupyter Notebook hidden) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayababuji&exclude_repo=python-selenium,mnistsample,MyCodefights,BDD_Projects&hide=json,jupyter%20notebook&layout=pie&theme=radical" height="160">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mayababuji&theme=radical" height="160">
-</p>
 
 ---
 
